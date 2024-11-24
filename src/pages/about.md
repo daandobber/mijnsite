@@ -1,5 +1,5 @@
 ---
 layout: layouts/base.njk
-title: About
+title: Hallo
 ---
-Hallo en welkom op Daan Dobber . nl
+Er staat hier nog niks
