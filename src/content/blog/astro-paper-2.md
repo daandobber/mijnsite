@@ -1,18 +1,16 @@
 ---
 author: Sat Naing
-pubDatetime: 2023-01-30T15:57:52.737Z
 title: AstroPaper 2.0
+ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 slug: astro-paper-2
 featured: false
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+draft: true
 tags:
   - release
-description: AstroPaper with the enhancements of Astro v2. Type-safe markdown contents, bug fixes and better dev experience etc.
+description: AstroPaper with the enhancements of Astro v2. Type-safe markdown
+  contents, bug fixes and better dev experience etc.
 ---
-
 Astro 2.0 has been released with some cool features, breaking changes, DX improvements, better error overlay and so on. AstroPaper takes advantage of those cool features, especially Content Collections API.
-
-<!-- ![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215683840-dc2502f5-8c5a-44f0-a26c-4e7180455056.png) -->
 
 ![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png)
 
@@ -49,10 +47,10 @@ In the older version of AstroPaper, when someone search some article, the search
 
 The following frontmatter properties are renamed.
 
-| Old Names | New Names   |
-| --------- | ----------- |
-| datetime  | pubDatetime |
-| slug      | postSlug    |
+| Old Names | New Names |
+| --- | --- |
+| datetime | pubDatetime |
+| slug | postSlug |
 
 ### Default Tag for blog post
 
@@ -85,7 +83,7 @@ All the [#docs](https://astro-paper.pages.dev/tags/docs/) blog posts and [README
 
 ## Bug Fixes
 
-- fix broken tags in the Blog Post page
-- in a tag page, the last part of the breadcrumb is now updated to lower-case for consistency
-- exclude draft posts in a tag page
-- fix 'onChange value not updating issue' after a page reload
+*   fix broken tags in the Blog Post page
+*   in a tag page, the last part of the breadcrumb is now updated to lower-case for consistency
+*   exclude draft posts in a tag page
+*   fix 'onChange value not updating issue' after a page reload
