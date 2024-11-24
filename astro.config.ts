@@ -9,7 +9,6 @@ import { SITE } from "./src/config";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://daandobber.github.io',
-  base: 'daandobber.github.io ',
   integrations: [
     tailwind({
       applyBaseStyles: false,
