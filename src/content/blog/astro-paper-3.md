@@ -1,15 +1,15 @@
 ---
 author: Sat Naing
-pubDatetime: 2023-09-25T10:25:54.547Z
 title: AstroPaper 3.0
+ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 slug: astro-paper-v3
 featured: false
-ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
+draft: true
 tags:
   - release
-description: "AstroPaper Version 3: Elevating Your Web Experience with Astro v3 and Seamless View Transitions"
+description: "AstroPaper Version 3: Elevating Your Web Experience with Astro v3
+  and Seamless View Transitions"
 ---
-
 We're excited to announce the release of AstroPaper v3, packed with new features, enhancements, and bug fixes to elevate your web development experience. Let's dive into the highlights of this release:
 
 ![AstroPaper v3](@assets/images/AstroPaper-v3.png)
@@ -20,10 +20,7 @@ We're excited to announce the release of AstroPaper v3, packed with new features
 
 ### Astro v3 Integration
 
-<video autoplay loop="loop" muted="muted" plays-inline="true">
-  <source src="https://github.com/satnaing/astro-paper/assets/53733092/18fdb604-1ca3-41a0-8372-1367759091ff" type="video/mp4">
-  <!-- <source src="/assets/docs/astro-paper-v3-view-transitions-demo.mp4" type="video/mp4"> -->
-</video>
+ 
 
 AstroPaper now fully supports [Astro v3](https://astro.build/blog/astro-3/), offering improved performance and rendering speed.
 
@@ -47,15 +44,7 @@ The theme-color meta tag has been added to dynamically adapt to theme switches, 
 
 **_AstroPaper v2 theme switch_**
 
-<video autoplay loop="loop" muted="muted" plays-inline="true">
-  <source src="https://github.com/satnaing/astro-paper/assets/53733092/3ab5a1e8-1891-4264-a5bb-0ded69143c1a" type="video/mp4">
-</video>
-
 **_AstroPaper v3 theme switch_**
-
-<video autoplay loop="loop" muted="muted" plays-inline="true">
-  <source src="https://github.com/satnaing/astro-paper/assets/53733092/8ac9deb8-d1f8-4029-86bd-6aa0def380b4" type="video/mp4">
-</video>
 
 ## Other Changes
 
@@ -85,12 +74,12 @@ In this release, a lot of changes have been made\_ replacing old Astro APIs with
 
 It's important to keep all the files which have been already updated. These files include
 
-- `/src/config.ts` (didn't touch in v3)
-- `/src/styles/base.css` (minor changes in v3; mentioned below)
-- `/src/assets/` (didn't touch in v3)
-- `/public/assets/` (didn't touch in v3)
-- `/content/blog/` (it's your blog content directory 🤷🏻‍♂️)
-- Any other customizations you've made.
+*   `/src/config.ts` (didn't touch in v3)
+*   `/src/styles/base.css` (minor changes in v3; mentioned below)
+*   `/src/assets/` (didn't touch in v3)
+*   `/public/assets/` (didn't touch in v3)
+*   `/content/blog/` (it's your blog content directory 🤷🏻‍♂️)
+*   Any other customizations you've made.
 
 ```css
 /* file: /src/styles/base.css */
