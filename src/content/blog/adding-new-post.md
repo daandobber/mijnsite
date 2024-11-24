@@ -1,5 +1,7 @@
 ---
 author: Sat Naing
+pubDatetime: 2024-11-24
+modDatetime: 2024-11-24
 title: Adding new posts in AstroPaper theme
 slug: adding-new-posts-in-astropaper-theme
 featured: false
