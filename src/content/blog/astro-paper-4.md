@@ -1,15 +1,14 @@
 ---
 author: Sat Naing
-pubDatetime: 2024-01-04T09:30:41.816Z
 title: AstroPaper 4.0
-slug: "astro-paper-v4"
-featured: true
 ogImage: ../../assets/images/AstroPaper-v4.png
+slug: astro-paper-v4
+featured: false
+draft: true
 tags:
   - release
 description: "AstroPaper v4: ensuring a smoother and more feature-rich blogging experience."
 ---
-
 Hello everyone! Wishing you a happy New Year 🎉 and all the best for 2024! We're excited to announce the release of AstroPaper v4, a significant update that introduces a range of new features, improvements, and bug fixes to elevate your blogging experience. A big thank you to all the contributors for their valuable input and efforts in making version 4 possible!
 
 ![AstroPaper v4](@assets/images/AstroPaper-v4.png)
@@ -52,10 +51,6 @@ AstroPaper now includes VSCode snippets for new blog posts, eliminating the need
 
 Read more about VSCode Snippets [here](https://code.visualstudio.com/docs/editor/userdefinedsnippets#:~:text=In%20Visual%20Studio%20Code%2C%20snippets,Snippet%20in%20the%20Command%20Palette).
 
-<video autoplay muted="muted" controls plays-inline="true" class="border border-skin-line">
-  <source src="https://github.com/satnaing/astro-paper/assets/53733092/136f1903-bade-40a2-b6bb-285a3c726350" type="video/mp4">
-</video>
-
 ### Add Modified Datetime in Blog Posts [#195](https://github.com/satnaing/astro-paper/pull/195)
 
 Keep readers informed about the latest updates by displaying the modified datetime in blog posts. This not only instills user trust in the freshness of the articles but also contributes to improved SEO for the blog.
@@ -73,10 +68,6 @@ Enhance user navigation on your blog detail post with the newly implemented back
 ### Add Pagination in Tag Posts [#201](https://github.com/satnaing/astro-paper/pull/201)
 
 Improve content organization and navigation with the addition of pagination in tag posts, making it easier for users to explore related content. This ensures that if a tag has many posts, readers won't be overwhelmed by all the tag-related posts.
-
-<video autoplay loop="loop" muted="muted" plays-inline="true" class="border border-skin-line">
-  <source src="https://github.com/satnaing/astro-paper/assets/53733092/9bad87f5-dcf5-4b79-b67a-d6c7244cd616" type="video/mp4">
-</video>
 
 ### Dynamically Generate robots.txt [#130](https://github.com/satnaing/astro-paper/pull/130)
 
@@ -120,5 +111,5 @@ We believe these updates will significantly elevate your AstroPaper experience. 
 
 Happy Blogging!
 
-[Sat Naing](https://satnaing.dev) <br/>
+[Sat Naing](https://satnaing.dev)  
 Creator of AstroPaper
