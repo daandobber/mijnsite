@@ -2,4 +2,4 @@
 layout: ../layouts/Layout.astro
 title: Hallo
 ---
-Er staat hier nog niks
+Dit is een _about page_
