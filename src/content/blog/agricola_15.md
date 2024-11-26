@@ -5,5 +5,6 @@ title: "Agricola 15"
 featured: true
 draft: false
 is_expansion: false
+description: "Agricola 15"
 ---
 ![Agricola 15](/images/bordspellen/agricola_15.jpg)
