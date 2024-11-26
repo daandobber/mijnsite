@@ -5,6 +5,7 @@ title: "Agricola 15"
 featured: true
 draft: false
 is_expansion: false
+import agrImage from '../../assets/images/bordspellen/agricola_15.jpg';
 description: "Agricola 15"
 ---
-![Agricola 15](/images/bordspellen/agricola_15.jpg)
+![Agricola 15]({agrImage})
